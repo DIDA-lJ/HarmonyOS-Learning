@@ -1,2 +1,2 @@
 # HarmonyOS-Learning
-鸿蒙学习过程笔记记录
+鸿蒙开发学习过程笔记记录
