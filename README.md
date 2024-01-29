@@ -11,7 +11,9 @@
 ## ArtTS
 <ul>
   <li>
-<a href="https://github.com/DIDA-lJ/HarmonyOS-Learning/blob/main/Adaptation_rules_from_TypeScript_to_ArkTS.md">Adaptation rules from TypeScript to ArkTS - 从 TS 到 ArkTS 的适配规则</a> <br/>
-<a href="https://github.com/DIDA-lJ/HarmonyOS-Learning/blob/main/Adaptation_guidance_ArkTS_case.md">TS 适配 ArtkTS 案例</a>
+    <a href="https://github.com/DIDA-lJ/HarmonyOS-Learning/blob/main/Adaptation_rules_from_TypeScript_to_ArkTS.md">Adaptation rules from TypeScript to ArkTS - 从 TS 到 ArkTS 的适配规则</a> <br/>
+  </li>
+  <li>
+    <a href="https://github.com/DIDA-lJ/HarmonyOS-Learning/blob/main/Adaptation_guidance_ArkTS_case.md">TS 适配 ArtkTS 案例</a>
   </li>
 </ul>
